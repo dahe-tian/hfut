@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Dec 15 11:55:10 2021
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : exp1
+Top-level Entity Name : exp1
+Family : Cyclone IV E
+Device : EP4CE40F23C8
+Timing Models : Final
+Total logic elements : 22 / 39,600 ( < 1 % )
+    Total combinational functions : 21 / 39,600 ( < 1 % )
+    Dedicated logic registers : 5 / 39,600 ( < 1 % )
+Total registers : 5
+Total pins : 18 / 329 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,161,216 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 232 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
